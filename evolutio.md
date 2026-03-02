@@ -1,5 +1,8 @@
 ## Evolución del proyecto de Funciones Avanzadas 1 y 2"
 
+
+BLA BL BLA BAAA BAALAKAJCDUHFEFEHFNAAJDHAlKDJKSFUUHFNNDSNCCJKS
+
 En este proyecto se encuentran las **dos pruebas de evaluación** de la asignatura: la **revisión** (rama `main` y uso de GitHub) y el **proyecto de experimentos** (ramas de experimento). Lo que hagas aquí —seguir los vídeos en `main` y trabajar en tus ramas— es la base de tu nota en ambas pruebas.
 
 En este curso vas a reproducir la aplicación que el profesor construye en clase. Esto te servirá para aprender todos los conceptos de la asignatura y para usarla en tus aplicaciones futuras.  Tu objetivo es que **la rama `main` de tu repositorio sea una copia 1:1 de la del profesor**. Al final de cada video tendrás que crear un commit.
