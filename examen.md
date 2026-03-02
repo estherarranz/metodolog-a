@@ -11,7 +11,7 @@ Todo lo que entra en el examen sale de esos dos vídeos.
 
 ---
 
-## 📝 Tipo de preguntas
+## 📝 Sin oreguntas ni respuestas
 
-- Preguntas de seleccionar opciones
-- Preguntas cortas (escribir, corregir o explicar código).
+
+buenas que tal vamos a tope con git
