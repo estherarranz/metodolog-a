@@ -18,4 +18,4 @@ Todo lo que entra en el examen sale de esos dos vídeos.
 - Preguntas de seleccionar opciones
 - Preguntas cortas (escribir, corregir o explicar código).
 
-1 +1 + 454
+1 +1 + 454. educación siempre
